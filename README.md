@@ -1,1 +1,3 @@
 # GreenCommute
+
+# Duplicated Files
